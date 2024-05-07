@@ -63,7 +63,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
-- 
+- Kosovo 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 Communication on EU Enlargement policy: https://op.europa.eu/en/publication-detail/-/publication/98bb1e85-7eee-11ee-99ba-01aa75ed71a1/language-en
+- Transport Community Treaty: https://www.transport-community.org/transport-community-treaty/; more on https://www.transport-community.org/
+- Strategy for Sustainable and Smart Mobility in the Western Balkans, 2021: https://www.transport-community.org/strategy-for-sustainable-and-smart-mobility-in-the-western-balkans-2/
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
