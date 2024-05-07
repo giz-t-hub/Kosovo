@@ -28,6 +28,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
+	- Multimodal Transport Strategy 2023 – 2030: https://kryeministri.rks-gov.net/wp-content/uploads/2023/05/MULTIMODAL-TRANSPORT-STRATEGY-2030.pdf
 
 - General
 
@@ -37,9 +38,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Railways:
  
 - Roads:
+	-  Road Safety Strategy and Action Plan for Kosovo, 2015: https://www.mit-ks.net/repository/docs/2015_11_05_091915_road_safety_strategy_20102015.pdf
+	-  More: https://www.mit-ks.net/sq/departamenti-koordinues-i-keshillit-per-sigurine-e-komunikacionit-rrugor
+
     
 - Inland waterways, ports:
 - Aviation:
+	- Regulations: https://www.mit-ks.net/sq/departamenti-i-aviacionit-civil 
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -75,10 +80,12 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Mitrovica South:
 	- Sustainable Urban Mobility Plan (SUMP) Mitrovica South, 2020: https://unhabitat-kosovo.org/wp-content/uploads/2020/08/SUMP-Mitrovica-South-2020.pdf
+ - Pristina
+	- Sustainable Urban Mobility Plan (SUMP), 2019: https://prishtinaonline.com/uploads/sump_pristina_final_report_en_a.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
 
--
+	- Kosovo: A Future of Green Transport and Clean Air, World Bank: https://documents1.worldbank.org/curated/en/272811563348191164/pdf/Kosovo-A-Future-of-Green-Transport-and-Clean-Air.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
@@ -88,7 +95,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
-- Asian Transport Outlook: https://asiantransportoutlook.com/ 
 
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
