@@ -91,6 +91,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Kosovo: A Future of Green Transport and Clean Air, World Bank: https://documents1.worldbank.org/curated/en/272811563348191164/pdf/Kosovo-A-Future-of-Green-Transport-and-Clean-Air.pdf
 - Public Space Profile Pristina: https://unhabitat.org/sites/default/files/documents/2019-08/unhabitat_pspp_eng2_15112018_0.pdf
+- Guidelines for Developing and Implementing a Sustainable Urban Mobility Plan (SUMP) in Kosovo’s Cities: https://unhabitat.org/sites/default/files/2021/08/sump-guidelineseng.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
