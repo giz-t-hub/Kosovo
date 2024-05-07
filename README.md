@@ -73,7 +73,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
--
+- Mitrovica South:
+	- Sustainable Urban Mobility Plan (SUMP) Mitrovica South, 2020: https://unhabitat-kosovo.org/wp-content/uploads/2020/08/SUMP-Mitrovica-South-2020.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
 
