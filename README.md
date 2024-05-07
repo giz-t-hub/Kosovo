@@ -77,7 +77,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Gender and Equality <a name="gender"></a>
 
--
+- Kosovo Program for Gender Equality 2020-2024: https://abgj.rks-gov.net/assets/cms/uploads/files/AGE%20Kosovo%20Program%20for%20Gender%20Equality%202020-2024.pdf
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
