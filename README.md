@@ -49,6 +49,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
+	- Climate Change Strategy 2019-2028 Action Plan on Climate Change 2019-2021: https://konsultimet.rks-gov.net/Storage/Consultations/14-13-59-04102018/Climate%20Change%20Strategy%20and%20Action%20Plan_sep_2018.pdf
     
 - Adaptation
    
@@ -82,14 +83,17 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 	- Sustainable Urban Mobility Plan (SUMP) Mitrovica South, 2020: https://unhabitat-kosovo.org/wp-content/uploads/2020/08/SUMP-Mitrovica-South-2020.pdf
  - Pristina
 	- Sustainable Urban Mobility Plan (SUMP), 2019: https://prishtinaonline.com/uploads/sump_pristina_final_report_en_a.pdf
+ 	- Green City Action Plan, 2021: https://ebrdgreencities.com/assets/Uploads/PDF/Pristina-GCAP_ENG_August-2021.pdf
+  - 
+
 
 ### Studies and research papers <a name="studies-research"></a> 
 
-	- Kosovo: A Future of Green Transport and Clean Air, World Bank: https://documents1.worldbank.org/curated/en/272811563348191164/pdf/Kosovo-A-Future-of-Green-Transport-and-Clean-Air.pdf
+- Kosovo: A Future of Green Transport and Clean Air, World Bank: https://documents1.worldbank.org/curated/en/272811563348191164/pdf/Kosovo-A-Future-of-Green-Transport-and-Clean-Air.pdf
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
--
+- EBRD: GrCF2W2 - Pristina Urban Transport II: https://www.ebrd.com/work-with-us/projects/psd/51923.html
 
 ### Data <a name="data"></a>
 
