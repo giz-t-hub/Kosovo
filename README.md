@@ -73,7 +73,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Digitalisation <a name="digitalisation"></a>
 
--
+- Digital Agenda Kosovo 2030 *(Agjenda Digjitale e Kosovës 2030)*: https://arkep-rks.org/desk/inc/media/82582FB3-CD31-4D3D-A2AA-F7CC21ACADCA.pdf
 
 ### Gender and Equality <a name="gender"></a>
 
