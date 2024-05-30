@@ -19,7 +19,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Trade Facilitation](#trade-facilitation)  
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
-- [Local Transport Plans](#local-transport-plans) 
+- [Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
@@ -85,7 +85,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Kosovo Program for Gender Equality 2020-2024: https://abgj.rks-gov.net/assets/cms/uploads/files/AGE%20Kosovo%20Program%20for%20Gender%20Equality%202020-2024.pdf
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
 - Mitrovica South:
 	- Sustainable Urban Mobility Plan (SUMP) Mitrovica South, 2020: https://unhabitat-kosovo.org/wp-content/uploads/2020/08/SUMP-Mitrovica-South-2020.pdf
